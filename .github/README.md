@@ -5,7 +5,7 @@
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sagexdd&repo=SYNAXMUSIC&theme=flag-india)
 
 [![GIF](https://github.com/Sagexdd/SYNAXMUSIC/blob/main/DAXXTEAM.gif)](https://github.com/Sagexdd)
-   [![SYNAX](https://github-stats-alpha.vercel.app/api?username=Sagexdd "SYNAX")](https://github-stats-alpha.vercel.app/api?username=Sagexdd "SYNAX")
+   [![ARD_NERIW](https://github-stats-alpha.vercel.app/api?username=Sagexdd "ARD_NERIW")](https://github-stats-alpha.vercel.app/api?username=Sagexdd "ARD_NERIW")
 
 
 
